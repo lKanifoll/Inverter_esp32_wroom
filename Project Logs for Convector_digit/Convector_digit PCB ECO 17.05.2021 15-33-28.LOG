@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=Touch1 Pin=DA2-6
+Added Net: Name=Touch1
+Added Pin To Net: NetName=Touch2 Pin=DA2-7
+Added Net: Name=Touch2
+Added Pin To Net: NetName=Touch3 Pin=DA2-9
+Added Net: Name=Touch3
+Added Pin To Net: NetName=Touch4 Pin=DA2-10
+Added Net: Name=Touch4
+Added Pin To Net: NetName=Touch5 Pin=DA2-8
+Added Net: Name=Touch5
+Added Member To Class: ClassName=touch Member=Wire Touch1
+Added Member To Class: ClassName=touch Member=Wire Touch2
+Added Member To Class: ClassName=touch Member=Wire Touch3
+Added Member To Class: ClassName=touch Member=Wire Touch4
+Added Member To Class: ClassName=touch Member=Wire Touch5

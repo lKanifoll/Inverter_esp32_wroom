@@ -1,0 +1,359 @@
+Removed Pin From Net: NetName=G Pin=HL1-1
+Removed Pin From Net: NetName=A Pin=HL1-3
+Removed Pin From Net: NetName=F Pin=HL1-4
+Removed Pin From Net: NetName=D Pin=HL1-6
+Removed Pin From Net: NetName=E Pin=HL1-7
+Removed Pin From Net: NetName=C Pin=HL1-8
+Removed Pin From Net: NetName=B Pin=HL1-9
+Removed Pin From Net: NetName=GND Pin=HL3-C1
+Removed Pin From Net: NetName=GND Pin=HL3-C2
+Removed Pin From Net: NetName=NetDD2_15 Pin=R1-1
+Removed Pin From Net: NetName=A Pin=R1-2
+Removed Pin From Net: NetName=NetDD2_1 Pin=R2-1
+Removed Pin From Net: NetName=B Pin=R2-2
+Removed Pin From Net: NetName=NetDD2_2 Pin=R3-1
+Removed Pin From Net: NetName=C Pin=R3-2
+Removed Pin From Net: NetName=NetDD2_3 Pin=R5-1
+Removed Pin From Net: NetName=D Pin=R5-2
+Removed Pin From Net: NetName=NetDD2_4 Pin=R6-1
+Removed Pin From Net: NetName=E Pin=R6-2
+Removed Pin From Net: NetName=NetDD2_5 Pin=R7-1
+Removed Pin From Net: NetName=F Pin=R7-2
+Removed Pin From Net: NetName=NetDD2_6 Pin=R8-1
+Removed Pin From Net: NetName=G Pin=R8-2
+Removed Pin From Net: NetName=NetDD3_4 Pin=R28-2
+Removed Pin From Net: NetName=NetDD3_5 Pin=R29-2
+Removed Pin From Net: NetName=NetDD3_1 Pin=R31-2
+Removed Pin From Net: NetName=NetDD3_2 Pin=R32-2
+Removed Member From Class: ClassName=Convector_digit Member=HL1
+Removed Member From Class: ClassName=Convector_digit Member=HL3
+Removed Member From Class: ClassName=Convector_digit Member=R1
+Removed Member From Class: ClassName=Convector_digit Member=R2
+Removed Member From Class: ClassName=Convector_digit Member=R3
+Removed Member From Class: ClassName=Convector_digit Member=R5
+Removed Member From Class: ClassName=Convector_digit Member=R6
+Removed Member From Class: ClassName=Convector_digit Member=R7
+Removed Member From Class: ClassName=Convector_digit Member=R8
+Removed Member From Class: ClassName=Convector_digit Member=R9
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R?(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A Pin=HL?-A
+Added Pin To Net: NetName=A Pin=HL?-A
+Added Pin To Net: NetName=B Pin=HL?-A
+Added Pin To Net: NetName=B Pin=HL?-A
+Added Pin To Net: NetName=C Pin=HL?-A
+Added Pin To Net: NetName=C Pin=HL?-A
+Added Pin To Net: NetName=D Pin=HL?-A
+Added Pin To Net: NetName=D Pin=HL?-A
+Added Pin To Net: NetName=E Pin=HL?-A
+Added Pin To Net: NetName=E Pin=HL?-A
+Added Pin To Net: NetName=F Pin=HL?-A
+Added Pin To Net: NetName=F Pin=HL?-A
+Added Pin To Net: NetName=G Pin=HL?-A
+Added Pin To Net: NetName=G Pin=HL?-A
+Added Pin To Net: NetName=GND Pin=HL?-C
+Added Pin To Net: NetName=GND Pin=HL?-C
+Added Pin To Net: NetName=NetDD3_5 Pin=R28-2
+Added Pin To Net: NetName=NetDD3_4 Pin=R29-2
+Added Pin To Net: NetName=NetDD3_2 Pin=R31-2
+Added Pin To Net: NetName=NetDD3_1 Pin=R32-2
+Added Pin To Net: NetName=A Pin=R?-1
+Added Pin To Net: NetName=B Pin=R?-1
+Added Pin To Net: NetName=C Pin=R?-1
+Added Pin To Net: NetName=D Pin=R?-1
+Added Pin To Net: NetName=E Pin=R?-1
+Added Pin To Net: NetName=F Pin=R?-1
+Added Pin To Net: NetName=G Pin=R?-1
+Added Pin To Net: NetName=NetDD2_1 Pin=R?-2
+Added Pin To Net: NetName=NetDD2_2 Pin=R?-2
+Added Pin To Net: NetName=NetDD2_3 Pin=R?-2
+Added Pin To Net: NetName=NetDD2_4 Pin=R?-2
+Added Pin To Net: NetName=NetDD2_5 Pin=R?-2
+Added Pin To Net: NetName=NetDD2_6 Pin=R?-2
+Added Pin To Net: NetName=NetDD2_15 Pin=R?-2
+Added Pin To Net: NetName=NetHL?_A Pin=HL?-A
+Added Pin To Net: NetName=NetHL?_A Pin=R29-1
+Added Net: Name=NetHL?_A
+Added Pin To Net: NetName=NetHL?_C Pin=HL?-C
+Added Pin To Net: NetName=NetHL?_C Pin=HL?-C
+Added Pin To Net: NetName=NetHL?_C Pin=HL?-C
+Added Pin To Net: NetName=NetHL?_C Pin=HL?-C
+Added Pin To Net: NetName=NetHL?_C Pin=HL?-C
+Added Pin To Net: NetName=NetHL?_C Pin=HL?-C
+Added Pin To Net: NetName=NetHL?_C Pin=HL?-C
+Added Pin To Net: NetName=NetHL?_C Pin=VT2-Y
+Added Net: Name=NetHL?_C
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component HL? 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component R? 330
+Added Member To Class: ClassName=Convector_digit Member=Component R? 330
+Added Member To Class: ClassName=Convector_digit Member=Component R? 330
+Added Member To Class: ClassName=Convector_digit Member=Component R? 330
+Added Member To Class: ClassName=Convector_digit Member=Component R? 330
+Added Member To Class: ClassName=Convector_digit Member=Component R? 330
+Added Member To Class: ClassName=Convector_digit Member=Component R? 330

@@ -1,0 +1,39 @@
+Change component parameters: Designator = "XS1" ("XS1"); Footprint = "PBS-05"; UniqueID = "\ISBZREIH" ("\ISBZREIH")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1506"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C50950"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "2.54 ????5PIN,??,??8.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "FEMALE_5PIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "PBS-05"; VariantName = "[No Variations]"
+Added Component: Designator=HL21(WS2812C-2020)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3562"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C965556"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812C-2020_C965556.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Added Component: Designator=HL?(WS2812C-2020)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3562"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C965556"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812C-2020_C965556.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=HL21-+
+Added Pin To Net: NetName=GND Pin=HL21--
+Added Pin To Net: NetName=RGB Pin=HL21-I
+Added Pin To Net: NetName=3.3V Pin=HL?-+
+Added Pin To Net: NetName=GND Pin=HL?--
+Added Pin To Net: NetName=RGB Pin=HL?-I
+Added Member To Class: ClassName=Convector_digit Member=Component HL21 WS2812
+Added Member To Class: ClassName=Convector_digit Member=Component HL? WS2812

@@ -1,0 +1,24 @@
+Added Component: Designator=C16(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C187860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C187860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=ADC_CAL Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=ADC_T1 Pin=C17-2
+Added Member To Class: ClassName=Convector_digit Member=Component C16 100n
+Added Member To Class: ClassName=Convector_digit Member=Component C17 100n

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LED_CLK Pin=A1-13
+Removed Pin From Net: NetName=LED_MOSI Pin=A1-16
+Removed Pin From Net: NetName=LED_SHIFT Pin=A1-23
+Removed Pin From Net: NetName=CH2 Pin=A1-31
+Removed Pin From Net: NetName=RGB Pin=A1-37
+Added Pin To Net: NetName=CH2 Pin=A1-10
+Added Pin To Net: NetName=RGB Pin=A1-16
+Added Pin To Net: NetName=LED_CLK Pin=A1-31
+Added Pin To Net: NetName=LED_SHIFT Pin=A1-36
+Added Pin To Net: NetName=LED_MOSI Pin=A1-37

@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=ZQ1 Old Footprint=DIP_2X6 New Footprint=KX-327NHT
+Change Component Comment : Designator=ZQ1 Old Comment=Radial,2x6mm New Comment=32.768kHz
+Change component parameters: Designator = "ZQ1" ("ZQ1"); Footprint = "DIP_2X6"; UniqueID = "\AVXJRSFN" ("\AVXJRSFN")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1504"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C164062"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "FC-135 32.768000kHz 12.5 +20.0-20.0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "QUARTZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Quartzes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/SMD-Crystal-Resonators_TAE-Zhejiang-Abel-Elec-SMD-3215-2P32-768KHZ12-5PF10PPM_C164062.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"

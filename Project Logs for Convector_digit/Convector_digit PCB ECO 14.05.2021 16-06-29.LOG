@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=GND Pin=A1-GND
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=DA2-14
+Removed Pin From Net: NetName=3.3V Pin=DA2-15
+Removed Pin From Net: NetName=3.3V Pin=DA2-16
+Change Component Comment : Designator=C13 Old Comment=4.7n New Comment=2.0p
+Change Component Comment : Designator=C10 Old Comment=4.7p New Comment=4.7n
+Change Component Comment : Designator=DA2 Old Comment=AI05 New Comment=XW09A
+Change Component Designator: OldDesignator=POWER NewDesignator=XS1
+Change Component Designator: OldDesignator=PROG NewDesignator=XP1
+Change Component Designator: OldDesignator=T1 NewDesignator=XP2
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C0603"; UniqueID = "\TDYTTZAB" ("\TDYTTZAB")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1218"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C53987"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "0603B472K500NT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "C0603"; UniqueID = "\KCTMZPEQ" ("\KCTMZPEQ")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1144"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C21895"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "CL10C020CB8NNNC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10C020CB8NNNC_2-0pF-020-0-25pF-50V_C21895.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.0p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA2" ("DA2"); Footprint = "SO-16"; UniqueID = "\FVTEXXZG" ("\FVTEXXZG")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Group"; Value = "Микросхемы"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "3620"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C441720"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC_PartNumber"; Value = "C441720"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Sam&wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "XW09A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "XW09A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "XW09X"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Microschemes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Touch-Screen-Controller-ICs_Sam-wing-XW09A_C441720.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "XW09A"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C187860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=R32(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C23162"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF4701T5E_C23162.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R33(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=SCL Pin=DA2-14
+Added Pin To Net: NetName=SDA Pin=DA2-15
+Added Pin To Net: NetName=3.3V Pin=R32-2
+Added Pin To Net: NetName=3.3V Pin=R33-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=DA2-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=DA2-3
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=DA2-16
+Added Pin To Net: NetName=NetC18_2 Pin=R33-1
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=TOUCH_INT Pin=DA2-13
+Added Pin To Net: NetName=TOUCH_INT Pin=R32-1
+Added Net: Name=TOUCH_INT
+Added Member To Class: ClassName=Convector_digit Member=Component C18 100n
+Added Member To Class: ClassName=Convector_digit Member=Component R32 4.7K
+Added Member To Class: ClassName=Convector_digit Member=Component R33 18

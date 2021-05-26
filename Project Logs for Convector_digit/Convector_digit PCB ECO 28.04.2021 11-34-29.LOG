@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DIG1 Pin=A1-27
+Removed Pin From Net: NetName=DIG2 Pin=A1-28
+Added Pin To Net: NetName=DIG2 Pin=A1-27
+Added Pin To Net: NetName=DIG1 Pin=A1-28

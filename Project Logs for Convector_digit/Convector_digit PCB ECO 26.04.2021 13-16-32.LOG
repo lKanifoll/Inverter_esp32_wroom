@@ -1,0 +1,22 @@
+Added Component: Designator=HL1(7_seg_double_CK)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3577"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C193138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ARKLED(Wuxi ARK Tech Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "SN420362N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "7_segment_double_CK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Led-Segment-Display_ARKLED-Wuxi-ARK-Tech-Elec-SN420362N_C193138.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ARKLED_SN420362N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=NetHL1_3 Pin=HL1-3
+Added Pin To Net: NetName=NetHL1_4 Pin=HL1-4
+Added Pin To Net: NetName=NetHL1_5 Pin=HL1-5
+Added Pin To Net: NetName=NetHL1_6 Pin=HL1-6
+Added Pin To Net: NetName=NetHL1_7 Pin=HL1-7
+Added Pin To Net: NetName=NetHL1_8 Pin=HL1-8
+Added Pin To Net: NetName=NetHL1_9 Pin=HL1-9
+Added Pin To Net: NetName=NetHL1_10 Pin=HL1-10
+Added Member To Class: ClassName=Convector_digit Member=Component HL1 ARKLED_SN420362N

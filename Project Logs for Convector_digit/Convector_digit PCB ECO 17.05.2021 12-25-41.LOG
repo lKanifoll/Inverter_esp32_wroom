@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=RGB Pin=A1-16
+Removed Pin From Net: NetName=3.3V Pin=C7-2
+Removed Pin From Net: NetName=3.3V Pin=HL20-+
+Removed Pin From Net: NetName=3.3V Pin=HL21-+
+Removed Pin From Net: NetName=3.3V Pin=HL22-+
+Added Component: Designator=DA3(SOT-23-6)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3597"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C2762287"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Jiangsu RUNIC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS0101YH6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "RS0101YH6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Microschemes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Level-Translators-Shifters_Jiangsu-RUNIC-Tech-RS0101YH6_C2762287.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RS0101YH6"; VariantName = "[No Variations]"
+Added Component: Designator=R34(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C7-2
+Added Pin To Net: NetName=3.3V Pin=DA3-1
+Added Pin To Net: NetName=GND Pin=DA3-2
+Added Pin To Net: NetName=VCC Pin=DA3-6
+Added Pin To Net: NetName=VCC Pin=HL20-+
+Added Pin To Net: NetName=VCC Pin=HL21-+
+Added Pin To Net: NetName=VCC Pin=HL22-+
+Added Pin To Net: NetName=RGB Pin=R34-2
+Change Net Name : Old Net Name=RGB New Net Name=RGB_LEDS
+Added Pin To Net: NetName=NetDA3_4 Pin=DA3-4
+Added Pin To Net: NetName=NetDA3_4 Pin=R34-1
+Added Net: Name=NetDA3_4
+Added Pin To Net: NetName=RGB_ESP Pin=A1-16
+Added Pin To Net: NetName=RGB_ESP Pin=DA3-3
+Added Net: Name=RGB_ESP
+Added Pin To Net: NetName=RGB_SW Pin=A1-14
+Added Pin To Net: NetName=RGB_SW Pin=DA3-5
+Added Net: Name=RGB_SW
+Added Member To Class: ClassName=Convector_digit Member=Component DA3 RS0101YH6
+Added Member To Class: ClassName=Convector_digit Member=Component R34 330

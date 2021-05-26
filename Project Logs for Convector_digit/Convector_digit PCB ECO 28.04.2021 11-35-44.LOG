@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ADC_CAL Pin=A1-14
+Removed Pin From Net: NetName=ADC_T1 Pin=A1-26
+Added Pin To Net: NetName=ADC_T1 Pin=A1-11
+Added Pin To Net: NetName=ADC_CAL Pin=A1-12

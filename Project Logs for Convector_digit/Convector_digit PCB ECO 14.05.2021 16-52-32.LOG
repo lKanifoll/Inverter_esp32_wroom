@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetDA2_11 Pin=DA2-11
+Added Pin To Net: NetName=NetDA2_11 Pin=R28-2
+Added Net: Name=NetDA2_11
+Added Pin To Net: NetName=NetDA2_12 Pin=DA2-12
+Added Pin To Net: NetName=NetDA2_12 Pin=R31-2
+Added Net: Name=NetDA2_12

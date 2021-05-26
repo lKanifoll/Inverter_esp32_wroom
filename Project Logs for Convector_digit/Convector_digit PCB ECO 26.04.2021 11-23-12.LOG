@@ -1,0 +1,933 @@
+Added Component: Designator=A1(ESP-WROOM-32)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C82899"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ESP32-WROOM-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ESP32-WROOM-32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Modules"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/WIFI-Modules_Espressif-Systems-ESP32-WROOM-32_C82899.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ESP32-WROOM-32"; VariantName = "[No Variations]"
+Added Component: Designator=C1(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C187860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C1592"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "CL10A105KO8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A105KO8NNNC_C1592.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7p"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1163"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C38523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "CL10C120JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12p"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1163"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C38523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "CL10C120JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10C120JB8NNNC_C38523.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12p"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1218"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C53987"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B472K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7n"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C187860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C9(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C1592"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "CL10A105KO8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A105KO8NNNC_C1592.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C187860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1246"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C1592"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "CL10A105KO8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A105KO8NNNC_C1592.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C187860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C22(1207H)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3579"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C389744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WTSCAP (Wenting)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WTC5V50F22Z-0510H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor_polarised"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://item.szlcsc.com/365848.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.5V 0.22F"; VariantName = "[No Variations]"
+Added Component: Designator=C24(C0805)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1331"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=C25(C0805)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1331"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=C26(C0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C187860"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603B104K500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603KRX7R9BB104_C14663.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(SO-16)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3583"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C389300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sam&wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "AI05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "AI05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Microschemes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Touch-Screen-Controller-ICs_Sam-wing-AI05_C389300.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AI05"; VariantName = "[No Variations]"
+Added Component: Designator=DA5(SOT-223)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1489"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C108494"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "AZ1117EH-3.3TRG1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LDO_1117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Microschemes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_DIODES_AZ1117EH-3-3TRG1_AZ1117EH-3-3TRG1_C108494.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "AZ1117EH-3.3"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(SO-8)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3578"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VOLCOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "VC8563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "VC8563"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Microschemes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "VC8563"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(SO-16)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3557"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C2798023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Shenzhen Fuman Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC595D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Microschemes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/74-Series_Nexperia-74HC595D-118_C5947.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "74HC595D"; VariantName = "[No Variations]"
+Added Component: Designator=DD3(SO-16)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3557"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C2798023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Shenzhen Fuman Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "74HC595D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Microschemes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/74-Series_Nexperia-74HC595D-118_C5947.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "74HC595D"; VariantName = "[No Variations]"
+Added Component: Designator=HA1(PS1240P02BT)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1501"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C219727"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "PS1240P02BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Buzzer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Audio"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Piezo"; VariantName = "[No Variations]"
+Added Component: Designator=HL2(WS2812C-2020)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3562"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C965556"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Worldsemi-WS2812C-2020_C965556.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS2812C-2020"; VariantName = "[No Variations]"
+Added Component: Designator=HL3(DUAL_LED_0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3604"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C160476"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "LTST-C295TBKFKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED_2_in_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Lite-On-LTST-C295TBKFKT_C160476.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 Orange Blue"; VariantName = "[No Variations]"
+Added Component: Designator=HL4(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL5(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=HL6(LED0603Y)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3558"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C205448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Orient"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "ORH-W46G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Orient-ORH-W46G_C205448.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0603 White"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C4216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF3302T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3302T5E_C4216.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91"; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C115324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C25803"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1003T5E_C25803.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C115324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C115324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C25803"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF1003T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1003T5E_C25803.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C4216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF3302T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3302T5E_C4216.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C115324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C156350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K5101FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "97"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C115324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1002FT_C115324.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0805)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3606"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C78980"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor_1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.0K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "109"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C4216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF3302T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF3302T5E_C4216.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C115324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "90"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C156350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K5101FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C115324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C23162"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF4701T5E_C23162.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R25(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "89"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C23162"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF4701T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF4701T5E_C23162.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R26(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C22775"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "UNI-ROYAL(Uniroyal Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "0603WAF1000T5E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1000T5E_C22775.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=R27(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C115324"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R28(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R29(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R30(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R31(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=R32(R0603)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C163905"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Walsin Tech Corp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "WR06X3300FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X3300FTL_C163905.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(XL-2258)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "XL-2258"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "TB - BIG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SENSOR_SPRING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "XL-2258"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(XL-2258)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "XL-2258"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "TB - BIG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SENSOR_SPRING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "XL-2258"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(XL-2258)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "XL-2258"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "TB - BIG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SENSOR_SPRING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "XL-2258"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(XL-2258)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "XL-2258"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "TB - BIG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "SENSOR_SPRING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "XL-2258"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOD-323_DIODE)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1464"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C108805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Diodes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Switching-Diode_Shandong-Jingdao-Microelectronics-1N4148WS_C108805.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT-23-3)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C8545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "GM7002E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "N-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2N7002"; VariantName = "[No Variations]"
+Added Component: Designator=VT2(SOT-23-3)
+Add component (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C8545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "GM7002E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "N-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2N7002"; VariantName = "[No Variations]"
+Added Component: Designator=XP1(PLD-6)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3581"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MALE_6PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PLD-6"; VariantName = "[No Variations]"
+Added Component: Designator=XP2(WK-06)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1452"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C144397"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "B6B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MALE_6PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B6B-XH-A (LF) (SN) (WK-06)"; VariantName = "[No Variations]"
+Added Component: Designator=ZQ1(DIP_2X6)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "3580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C2236"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YXC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "X206032768KGB2SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "QUARTZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Quartzes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://item.szlcsc.com/2605.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Radial,2x6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C24-2
+Added Pin To Net: NetName=+5 Pin=DA5-Z
+Added Net: Name=+5
+Added Pin To Net: NetName=3.3V Pin=A1-2
+Added Pin To Net: NetName=3.3V Pin=C7-2
+Added Pin To Net: NetName=3.3V Pin=C12-2
+Added Pin To Net: NetName=3.3V Pin=C25-2
+Added Pin To Net: NetName=3.3V Pin=C26-2
+Added Pin To Net: NetName=3.3V Pin=DA1-15
+Added Pin To Net: NetName=3.3V Pin=DA1-16
+Added Pin To Net: NetName=3.3V Pin=DA5-X
+Added Pin To Net: NetName=3.3V Pin=HL2-+
+Added Pin To Net: NetName=3.3V Pin=R4-2
+Added Pin To Net: NetName=3.3V Pin=R15-2
+Added Pin To Net: NetName=3.3V Pin=R20-2
+Added Pin To Net: NetName=3.3V Pin=R24-2
+Added Pin To Net: NetName=3.3V Pin=R25-2
+Added Pin To Net: NetName=3.3V Pin=XP1-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=ADC_CAL Pin=A1-14
+Added Pin To Net: NetName=ADC_CAL Pin=R15-1
+Added Pin To Net: NetName=ADC_CAL Pin=R17-2
+Added Net: Name=ADC_CAL
+Added Pin To Net: NetName=ADC_T1 Pin=A1-26
+Added Pin To Net: NetName=ADC_T1 Pin=R20-1
+Added Pin To Net: NetName=ADC_T1 Pin=R22-2
+Added Net: Name=ADC_T1
+Added Pin To Net: NetName=BOOT Pin=A1-25
+Added Pin To Net: NetName=BOOT Pin=XP1-5
+Added Net: Name=BOOT
+Added Pin To Net: NetName=BUZZER Pin=A1-29
+Added Pin To Net: NetName=BUZZER Pin=R23-2
+Added Net: Name=BUZZER
+Added Pin To Net: NetName=CH1 Pin=A1-30
+Added Pin To Net: NetName=CH1 Pin=XP2-4
+Added Net: Name=CH1
+Added Pin To Net: NetName=CH2 Pin=A1-31
+Added Pin To Net: NetName=CH2 Pin=XP2-5
+Added Net: Name=CH2
+Added Pin To Net: NetName=CH3 Pin=A1-33
+Added Pin To Net: NetName=CH3 Pin=XP2-6
+Added Net: Name=CH3
+Added Pin To Net: NetName=DIG1 Pin=A1-27
+Added Pin To Net: NetName=DIG1 Pin=R13-2
+Added Net: Name=DIG1
+Added Pin To Net: NetName=DIG2 Pin=A1-28
+Added Pin To Net: NetName=DIG2 Pin=R10-2
+Added Net: Name=DIG2
+Added Pin To Net: NetName=EN Pin=A1-3
+Added Pin To Net: NetName=EN Pin=C1-2
+Added Pin To Net: NetName=EN Pin=R4-1
+Added Pin To Net: NetName=EN Pin=XP1-6
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=A1-1
+Added Pin To Net: NetName=GND Pin=A1-15
+Added Pin To Net: NetName=GND Pin=A1-38
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22--
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=DA1-1
+Added Pin To Net: NetName=GND Pin=DA1-14
+Added Pin To Net: NetName=GND Pin=DA5-Y
+Added Pin To Net: NetName=GND Pin=DA5-Y
+Added Pin To Net: NetName=GND Pin=DD1-4
+Added Pin To Net: NetName=GND Pin=DD3-13
+Added Pin To Net: NetName=GND Pin=HA1-2
+Added Pin To Net: NetName=GND Pin=HL2--
+Added Pin To Net: NetName=GND Pin=HL3-C1
+Added Pin To Net: NetName=GND Pin=HL3-C2
+Added Pin To Net: NetName=GND Pin=HL4-C
+Added Pin To Net: NetName=GND Pin=HL5-C
+Added Pin To Net: NetName=GND Pin=HL6-C
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=VT1-Z
+Added Pin To Net: NetName=GND Pin=VT2-Z
+Added Pin To Net: NetName=GND Pin=XP1-3
+Added Pin To Net: NetName=GND Pin=XP2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=KEY1 Pin=A1-4
+Added Pin To Net: NetName=KEY1 Pin=DA1-13
+Added Net: Name=KEY1
+Added Pin To Net: NetName=KEY2 Pin=A1-5
+Added Pin To Net: NetName=KEY2 Pin=DA1-12
+Added Net: Name=KEY2
+Added Pin To Net: NetName=KEY3 Pin=A1-6
+Added Pin To Net: NetName=KEY3 Pin=DA1-11
+Added Net: Name=KEY3
+Added Pin To Net: NetName=KEY4 Pin=A1-7
+Added Pin To Net: NetName=KEY4 Pin=DA1-10
+Added Net: Name=KEY4
+Added Pin To Net: NetName=LED_CLK Pin=A1-13
+Added Pin To Net: NetName=LED_CLK Pin=DD2-11
+Added Pin To Net: NetName=LED_CLK Pin=DD3-11
+Added Net: Name=LED_CLK
+Added Pin To Net: NetName=LED_MOSI Pin=A1-16
+Added Pin To Net: NetName=LED_MOSI Pin=DD2-14
+Added Net: Name=LED_MOSI
+Added Pin To Net: NetName=LED_SHIFT Pin=A1-23
+Added Pin To Net: NetName=LED_SHIFT Pin=DD2-12
+Added Pin To Net: NetName=LED_SHIFT Pin=DD3-12
+Added Net: Name=LED_SHIFT
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=DD3-8
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=DD2-8
+Added Pin To Net: NetName=NetC2_2 Pin=DD2-10
+Added Pin To Net: NetName=NetC2_2 Pin=DD2-13
+Added Pin To Net: NetName=NetC2_2 Pin=DD3-10
+Added Pin To Net: NetName=NetC2_2 Pin=R18-2
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=DA1-3
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C5-2
+Added Pin To Net: NetName=NetC4_2 Pin=DD1-1
+Added Pin To Net: NetName=NetC4_2 Pin=ZQ1-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=DA1-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R17-1
+Added Pin To Net: NetName=NetC9_2 Pin=R19-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=DD1-8
+Added Pin To Net: NetName=NetC21_1 Pin=R26-1
+Added Pin To Net: NetName=NetC21_1 Pin=VD1-C
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC22_+ Pin=C22-+
+Added Pin To Net: NetName=NetC22_+ Pin=R26-2
+Added Net: Name=NetC22_+
+Added Pin To Net: NetName=NetDA1_4 Pin=DA1-4
+Added Pin To Net: NetName=NetDA1_4 Pin=R12-2
+Added Net: Name=NetDA1_4
+Added Pin To Net: NetName=NetDA1_5 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_5 Pin=R16-2
+Added Net: Name=NetDA1_5
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=NetDA1_6 Pin=R21-2
+Added Net: Name=NetDA1_6
+Added Pin To Net: NetName=NetDA1_7 Pin=DA1-7
+Added Pin To Net: NetName=NetDA1_7 Pin=R27-2
+Added Net: Name=NetDA1_7
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=ZQ1-2
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD2_1 Pin=DD2-1
+Added Pin To Net: NetName=NetDD2_1 Pin=R2-1
+Added Net: Name=NetDD2_1
+Added Pin To Net: NetName=NetDD2_2 Pin=DD2-2
+Added Pin To Net: NetName=NetDD2_2 Pin=R3-1
+Added Net: Name=NetDD2_2
+Added Pin To Net: NetName=NetDD2_3 Pin=DD2-3
+Added Pin To Net: NetName=NetDD2_3 Pin=R5-1
+Added Net: Name=NetDD2_3
+Added Pin To Net: NetName=NetDD2_4 Pin=DD2-4
+Added Pin To Net: NetName=NetDD2_4 Pin=R6-1
+Added Net: Name=NetDD2_4
+Added Pin To Net: NetName=NetDD2_5 Pin=DD2-5
+Added Pin To Net: NetName=NetDD2_5 Pin=R7-1
+Added Net: Name=NetDD2_5
+Added Pin To Net: NetName=NetDD2_6 Pin=DD2-6
+Added Pin To Net: NetName=NetDD2_6 Pin=R8-1
+Added Net: Name=NetDD2_6
+Added Pin To Net: NetName=NetDD2_7 Pin=DD2-7
+Added Pin To Net: NetName=NetDD2_7 Pin=R9-1
+Added Net: Name=NetDD2_7
+Added Pin To Net: NetName=NetDD2_9 Pin=DD2-9
+Added Pin To Net: NetName=NetDD2_9 Pin=DD3-14
+Added Net: Name=NetDD2_9
+Added Pin To Net: NetName=NetDD2_15 Pin=DD2-15
+Added Pin To Net: NetName=NetDD2_15 Pin=R1-1
+Added Net: Name=NetDD2_15
+Added Pin To Net: NetName=NetDD3_1 Pin=DD3-1
+Added Pin To Net: NetName=NetDD3_1 Pin=R29-2
+Added Net: Name=NetDD3_1
+Added Pin To Net: NetName=NetDD3_2 Pin=DD3-2
+Added Pin To Net: NetName=NetDD3_2 Pin=R30-2
+Added Net: Name=NetDD3_2
+Added Pin To Net: NetName=NetDD3_3 Pin=DD3-3
+Added Pin To Net: NetName=NetDD3_3 Pin=R31-2
+Added Net: Name=NetDD3_3
+Added Pin To Net: NetName=NetDD3_4 Pin=DD3-4
+Added Pin To Net: NetName=NetDD3_4 Pin=R32-2
+Added Net: Name=NetDD3_4
+Added Pin To Net: NetName=NetDD3_15 Pin=DD3-15
+Added Pin To Net: NetName=NetDD3_15 Pin=R28-2
+Added Net: Name=NetDD3_15
+Added Pin To Net: NetName=NetHA1_1 Pin=HA1-1
+Added Pin To Net: NetName=NetHA1_1 Pin=R23-1
+Added Net: Name=NetHA1_1
+Added Pin To Net: NetName=NetHL1_1 Pin=R8-2
+Added Net: Name=NetHL1_1
+Added Pin To Net: NetName=NetHL1_2 Pin=R9-2
+Added Net: Name=NetHL1_2
+Added Pin To Net: NetName=NetHL1_3 Pin=R1-2
+Added Net: Name=NetHL1_3
+Added Pin To Net: NetName=NetHL1_4 Pin=R7-2
+Added Net: Name=NetHL1_4
+Added Pin To Net: NetName=NetHL1_5 Pin=VT1-Y
+Added Net: Name=NetHL1_5
+Added Pin To Net: NetName=NetHL1_6 Pin=R5-2
+Added Net: Name=NetHL1_6
+Added Pin To Net: NetName=NetHL1_7 Pin=R6-2
+Added Net: Name=NetHL1_7
+Added Pin To Net: NetName=NetHL1_8 Pin=R3-2
+Added Net: Name=NetHL1_8
+Added Pin To Net: NetName=NetHL1_9 Pin=R2-2
+Added Net: Name=NetHL1_9
+Added Pin To Net: NetName=NetHL1_10 Pin=VT2-Y
+Added Net: Name=NetHL1_10
+Added Pin To Net: NetName=NetHL3_A1 Pin=HL3-A1
+Added Pin To Net: NetName=NetHL3_A1 Pin=R28-1
+Added Net: Name=NetHL3_A1
+Added Pin To Net: NetName=NetHL3_A2 Pin=HL3-A2
+Added Pin To Net: NetName=NetHL3_A2 Pin=R29-1
+Added Net: Name=NetHL3_A2
+Added Pin To Net: NetName=NetHL4_A Pin=HL4-A
+Added Pin To Net: NetName=NetHL4_A Pin=R30-1
+Added Net: Name=NetHL4_A
+Added Pin To Net: NetName=NetHL5_A Pin=HL5-A
+Added Pin To Net: NetName=NetHL5_A Pin=R31-1
+Added Net: Name=NetHL5_A
+Added Pin To Net: NetName=NetHL6_A Pin=HL6-A
+Added Pin To Net: NetName=NetHL6_A Pin=R32-1
+Added Net: Name=NetHL6_A
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=R11-2
+Added Pin To Net: NetName=NetR10_1 Pin=VT1-X
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=SW1-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-2
+Added Pin To Net: NetName=NetR13_1 Pin=VT2-X
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=SW2-1
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=SW3-1
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=SW4-1
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=RGB Pin=A1-37
+Added Pin To Net: NetName=RGB Pin=HL2-I
+Added Net: Name=RGB
+Added Pin To Net: NetName=RX0 Pin=A1-34
+Added Pin To Net: NetName=RX0 Pin=XP1-4
+Added Net: Name=RX0
+Added Pin To Net: NetName=SCL Pin=A1-8
+Added Pin To Net: NetName=SCL Pin=DD1-6
+Added Pin To Net: NetName=SCL Pin=R24-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=A1-9
+Added Pin To Net: NetName=SDA Pin=DD1-5
+Added Pin To Net: NetName=SDA Pin=R25-1
+Added Net: Name=SDA
+Added Pin To Net: NetName=T1 Pin=C16-2
+Added Pin To Net: NetName=T1 Pin=R22-1
+Added Pin To Net: NetName=T1 Pin=XP2-3
+Added Net: Name=T1
+Added Pin To Net: NetName=TX0 Pin=A1-35
+Added Pin To Net: NetName=TX0 Pin=XP1-2
+Added Net: Name=TX0
+Added Pin To Net: NetName=VCC Pin=DD2-16
+Added Pin To Net: NetName=VCC Pin=DD3-16
+Added Pin To Net: NetName=VCC Pin=R18-1
+Added Pin To Net: NetName=VCC Pin=VD1-A
+Added Pin To Net: NetName=VCC Pin=XP2-1
+Added Net: Name=VCC
+Added Class: Name=Convector_digit
+Added Room: Name=Convector_digit

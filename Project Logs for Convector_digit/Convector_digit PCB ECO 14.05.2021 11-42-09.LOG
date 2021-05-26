@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CH2 Pin=A1-30
+Removed Pin From Net: NetName=CH1 Pin=A1-33
+Added Pin To Net: NetName=CH1 Pin=A1-30
+Added Pin To Net: NetName=CH2 Pin=A1-33
+Added Member To Class: ClassName=Convector_digit Member=Component DA1 AZ1117EH-3.3
+Added Member To Class: ClassName=Convector_digit Member=Component VD1 1N4148

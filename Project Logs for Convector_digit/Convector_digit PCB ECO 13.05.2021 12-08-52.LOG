@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=VCC Pin=XP2-1
+Removed Pin From Net: NetName=GND Pin=XP2-2
+Removed Pin From Net: NetName=T1 Pin=XP2-3
+Removed Pin From Net: NetName=CH1 Pin=XP2-4
+Removed Pin From Net: NetName=CH2 Pin=XP2-5
+Removed Pin From Net: NetName=CH3 Pin=XP2-6
+Change Component Footprint: Designator=XP2 Old Footprint=WK-06 New Footprint=WK-02
+Change Component Comment : Designator=XP2 Old Comment=WK-06 New Comment=WK-02
+Change component parameters: Designator = "XP2" ("XP2"); Footprint = "WK-06"; UniqueID = "\XEGGBOJD" ("\XEGGBOJD")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1448"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C158012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MALE_2PIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America_B2B-XH-A-LF-SN_JST-Sales-America-B2B-XH-A-LF-SN_C158012.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "B2B-XH-A (LF) (SN) (WK-02)"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(PBS-05)
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "1506"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCPN"; Value = "C50950"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFPN"; Value = "2.54 ????5PIN,??,??8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FEMALE_5PIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "PBS-05"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=XP2-1
+Added Pin To Net: NetName=T1 Pin=XP2-2
+Added Pin To Net: NetName=VCC Pin=XS1-1
+Added Pin To Net: NetName=CH1 Pin=XS1-2
+Added Pin To Net: NetName=CH2 Pin=XS1-3
+Added Pin To Net: NetName=CH3 Pin=XS1-4
+Added Pin To Net: NetName=GND Pin=XS1-5
+Added Member To Class: ClassName=Convector_digit Member=Component HL16 0603 White
+Added Member To Class: ClassName=Convector_digit Member=Component XS1 PBS-05

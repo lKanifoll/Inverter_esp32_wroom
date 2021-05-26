@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=3.3V Pin=DA5-X
+Removed Pin From Net: NetName=GND Pin=DA5-Y
+Removed Pin From Net: NetName=GND Pin=DA5-Y
+Removed Pin From Net: NetName=NetHL3_A1 Pin=R28-1
+Removed Pin From Net: NetName=NetHL3_A2 Pin=R29-1
+Change Component Comment : Designator=DD1 Old Comment=VC8563 New Comment=AiP8563
+Change Component Kind : Designator=XP1 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "C24" ("C24"); Footprint = "C0805"; UniqueID = "\MACEIECC" ("\MACEIECC")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1331"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C17024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "C0805"; UniqueID = "\KJHZZJPK" ("\KJHZZJPK")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "1331"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C17024"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "R0603"; UniqueID = "\GWRGHAJT" ("\GWRGHAJT")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C115325"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "R0603"; UniqueID = "\GLAVKEHK" ("\GLAVKEHK")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C115325"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "R0603"; UniqueID = "\OQYDWVXC" ("\OQYDWVXC")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C115325"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "R0603"; UniqueID = "\BHRSQELS" ("\BHRSQELS")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C115325"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21" ("R21"); Footprint = "R0603"; UniqueID = "\JSQXYZMJ" ("\JSQXYZMJ")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C115325"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "R0603"; UniqueID = "\HILUKION" ("\HILUKION")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C115325"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "R0603"; UniqueID = "\QQNKAIGY" ("\QQNKAIGY")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "73"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C115325"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FH(Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "RS-03K1002FT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K1001FT_C115325.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DD1" ("DD1"); Footprint = "SO-8"; UniqueID = "\WKQFWXFP" ("\WKQFWXFP")
+Change component parameters (AddParameter): Name = "Footprint Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID"; Value = "3578"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCPN"; Value = "C116087"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wuxi I-core Elec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFPN"; Value = "AiP8563"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "AiP8563"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Microschemes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "AiP8563"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DA5-X
+Added Pin To Net: NetName=3.3V Pin=DA5-Y
+Added Pin To Net: NetName=3.3V Pin=DA5-Y
+Added Pin To Net: NetName=NetHL3_A2 Pin=R28-1
+Added Pin To Net: NetName=NetHL3_A1 Pin=R29-1

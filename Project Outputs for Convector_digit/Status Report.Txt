@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Convector_digit.PcbDoc]
+   Generated File[Convector_digit.TXT]
+   Generated File[Convector_digit.LDP]
+   Generated File[Convector_digit.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:32:31 On 17.05.2021
